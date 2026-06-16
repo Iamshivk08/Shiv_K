@@ -20,46 +20,52 @@ I am a passionate developer who enjoys designing and developing efficient, scala
 ---
 
 # 🛠️ Technical Skills
-
-# 🛠️ Technical Skills
-
 # 🛠️ Technical Skills
 
 ## 💻 Programming Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=java" width="50"/>
 </p>
+
+**Java**
 
 ---
 
 ## 🌐 Frontend Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,javascript" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript" width="150"/>
 </p>
+
+**HTML5 | CSS3 | JavaScript**
 
 ---
 
 ## ⚙️ Backend Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=spring,nodejs" />
+<img src="https://skillicons.dev/icons?i=spring,nodejs" width="100"/>
 </p>
+
+**Spring Boot | Node.js**
 
 ---
 
-## 🗄️ Database
+## 🗄️ Database Technologies
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,oracle" />
+<img src="https://skillicons.dev/icons?i=mysql,oracle" width="100"/>
 </p>
+
+**SQL | Oracle Database**
 
 ---
 
-## 🛠️ Tools & IDEs
+## 🛠️ Tools & Development Environment
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" width="200"/>
 </p>
-Feel free to explore my repositories and connect with me for collaboration opportunities.
+
+**Git | GitHub | Visual Studio Code | IntelliJ IDEA**
