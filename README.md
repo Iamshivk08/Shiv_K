@@ -1,70 +1,101 @@
-# BALA SIVA KATAM
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Shiv%20K&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Developer%20|%20DSA%20Learner%20|%20Problem%20Solver&descAlignY=55" />
+# Hi 👋, I'm BALA SIVA KATAM
+
+🚀 Passionate Developer | Full Stack Developer | AI & ML Enthusiast
+
+Welcome to my GitHub profile!  
+I love building real-world applications, exploring new technologies, and solving problems through code.
+
+---
+
+## 👨‍💻 About Me
+
+- 🔭 Currently working on **Full Stack Web Development & Machine Learning Projects**
+- 🌱 Learning and improving skills in **Java, JavaScript, Python, AI/ML, and Databases**
+- 💡 Interested in building scalable and user-friendly applications
+- 🎯 Goal: Become a skilled Software Developer
+- 📫 Reach me: **shivkatam08@gmail.com**
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,c,cpp" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Shiv K</h1>
+### Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
+</p>
 
-<h3 align="center">
-Java Developer • Problem Solver • Lifelong Learner
-</h3>
+### Backend & Database
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb" />
+</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Developer;DSA+Learner;Web+Development+Enthusiast;Building+Projects+Every+Day" />
+### Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ---
 
-# 💫 About Me
+## 🚀 Featured Projects
 
-- 🌱 Currently learning **Java, DSA & Web Development**
-- 💻 Passionate about coding and software development
-- 🚀 Building projects consistently
-- 🎯 Goal: Become a Full Stack Java Developer
-- 📫 Reach me at: **shivkatam08@gmail.com**
+### 🏦 Banking Management System
+A complete banking application with dashboard, account management, transactions, and database integration.
+
+**Tech Stack:** HTML, CSS, JavaScript, Java, Database
 
 ---
 
-# 🚀 Tech Stack
+### 📚 Attendance Management System
+An attendance tracking system with dashboard analytics and attendance reports.
+
+**Tech Stack:** HTML, CSS, JavaScript, Python
+
+---
+
+### 🤖 Machine Learning Projects
+Developing ML models for classification, prediction, and data analysis.
+
+**Tech Stack:** Python, Pandas, NumPy, Scikit-Learn
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,javascript,mysql,github,vscode" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=shivkatam08&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivkatam08&layout=compact&theme=tokyonight" />
+
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 🔥 Contribution Activity
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivkatam08&theme=tokyonight" />
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-<p align="center">
-<a href="https://www.linkedin.com/in/bala-siva-naidu-katam-779129314/" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+<p>
+<a href="https://www.linkedin.com/in/bala-siva-naidu-katam-779129314/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:shivkatam08@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
 </a>
 </p>
 
 ---
 
-# ✨ Quote
-
-<p align="center">
-  
-"Code. Learn. Build. Repeat."
-
-</p>
+⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
