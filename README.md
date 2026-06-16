@@ -1,74 +1,49 @@
-<h1 align="center">Hi 👋, I'm Shiv K</h1>
-<h3 align="center">Java Developer | Problem Solver | Lifelong Learner</h3>
+# 🛠️ Technical Skills
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Java+Developer;DSA+Learner;Open+Source+Enthusiast;Building+Projects+Every+Day" />
-</p>
-
----
-
-# 💫 About Me
-
-- 🌱 Currently learning Java, DSA & Web Development
-- 💻 Passionate about coding and software development
-- 🚀 Building projects and improving problem-solving skills
-- 🎯 Goal: Become a Full Stack Java Developer
-- 📫 Reach me at: **shivkatam08@gmail.com**
-
----
-
-# 🚀 Tech Stack
+## 💻 Programming Language
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,html,css,javascript,mysql,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java" width="50" height="50"/>
 </p>
+
+**Java**
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180em"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="180em"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-# 🌐 Connect With Me
+## 🌐 Frontend Development
 
 <p align="left">
-<a href="https://www.linkedin.com/in/bala-siva-naidu-katam-779129314/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" width="150" height="50"/>
 </p>
+
+**HTML5 • CSS3 • JavaScript**
 
 ---
 
-# ✨ Quote
+## ⚙️ Backend Development
 
-> "Code. Learn. Build. Repeat."
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs" width="100" height="50"/>
+</p>
+
+**Spring Boot • Node.js**
+
+---
+
+## 🗄️ Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50"/>
+</p>
+
+**SQL • Oracle Database**
+
+---
+
+## 🛠️ Tools & IDEs
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" width="200" height="50"/>
+</p>
+
+**Git • GitHub • Visual Studio Code • IntelliJ IDEA**
