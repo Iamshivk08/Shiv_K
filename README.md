@@ -20,12 +20,11 @@ I am a passionate developer who enjoys designing and developing efficient, scala
 ---
 
 # 🛠️ Technical Skills
-# 🛠️ Technical Skills
 
-## 💻 Programming Languages
+## 💻 Programming Language
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java" width="50"/>
+  <img src="https://skillicons.dev/icons?i=java" width="50" height="50"/>
 </p>
 
 **Java**
@@ -35,37 +34,38 @@ I am a passionate developer who enjoys designing and developing efficient, scala
 ## 🌐 Frontend Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,javascript" width="150"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" width="150" height="50"/>
 </p>
 
-**HTML5 | CSS3 | JavaScript**
+**HTML5 • CSS3 • JavaScript**
 
 ---
 
 ## ⚙️ Backend Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=spring,nodejs" width="100"/>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs" width="100" height="50"/>
 </p>
 
-**Spring Boot | Node.js**
+**Spring Boot • Node.js**
 
 ---
 
-## 🗄️ Database Technologies
+## 🗄️ Database
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,oracle" width="100"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50"/>
 </p>
 
-**SQL | Oracle Database**
+**SQL • Oracle Database**
 
 ---
 
-## 🛠️ Tools & Development Environment
+## 🛠️ Tools & IDEs
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" width="200"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" width="200" height="50"/>
 </p>
 
+**Git • GitHub • Visual Studio Code • IntelliJ IDEA**
 **Git | GitHub | Visual Studio Code | IntelliJ IDEA**
