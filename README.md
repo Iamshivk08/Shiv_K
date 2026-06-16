@@ -88,7 +88,7 @@ A full-stack banking application designed to manage customer accounts, transacti
 - 🗄️ Database integration
 
 ### Technologies:
-`Java` `Spring Boot` `HTML` `CSS` `JavaScript` `SQL`
+`Java` `HTML` `CSS` `JavaScript` 
 
 ---
 
