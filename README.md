@@ -1,71 +1,74 @@
-# 👋 Hi, I'm BALA SIVA KATAM
+<h1 align="center">Hi 👋, I'm Shiv K</h1>
+<h3 align="center">Java Developer | Problem Solver | Lifelong Learner</h3>
 
-## 🚀 Software Developer | Full Stack Developer | Machine Learning Enthusiast
-
-Welcome to my GitHub profile!
-
-I am a passionate developer who enjoys designing and developing efficient, scalable, and user-focused applications. I love solving real-world problems through technology and continuously improving my skills in software development, web technologies, and machine learning.
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 Interested in Software Development and Emerging Technologies
-- 💻 Building projects using modern web and programming technologies
-- 🤖 Exploring Artificial Intelligence & Machine Learning
-- 🧠 Strong interest in problem-solving and system design
-- 🌱 Continuously learning and improving development skills
-- 📫 Email: shivkatam08@gmail.com
-
----
-
-# 🛠️ Technical Skills
-
-## 💻 Programming Language
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java" width="50" height="50"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Java+Developer;DSA+Learner;Open+Source+Enthusiast;Building+Projects+Every+Day" />
 </p>
 
-**Java**
+---
+
+# 💫 About Me
+
+- 🌱 Currently learning Java, DSA & Web Development
+- 💻 Passionate about coding and software development
+- 🚀 Building projects and improving problem-solving skills
+- 🎯 Goal: Become a Full Stack Java Developer
+- 📫 Reach me at: **shivkatam08@gmail.com**
 
 ---
 
-## 🌐 Frontend Development
+# 🚀 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript" width="150" height="50"/>
+<img src="https://skillicons.dev/icons?i=java,html,css,javascript,mysql,github,vscode" />
 </p>
-
-**HTML5 • CSS3 • JavaScript**
 
 ---
 
-## ⚙️ Backend Development
+# 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs" width="100" height="50"/>
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180em"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="180em"/>
+
 </p>
 
-**Spring Boot • Node.js**
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+
+</p>
 
 ---
 
-## 🗄️ Database
+# 🏆 GitHub Trophies
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50"/>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
-
-**SQL • Oracle Database**
 
 ---
 
-## 🛠️ Tools & IDEs
+# 🐍 Contribution Snake
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" width="200" height="50"/>
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
 </p>
 
-**Git • GitHub • Visual Studio Code • IntelliJ IDEA**
-**Git | GitHub | Visual Studio Code | IntelliJ IDEA**
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/bala-siva-naidu-katam-779129314/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+</p>
+
+---
+
+# ✨ Quote
+
+> "Code. Learn. Build. Repeat."
