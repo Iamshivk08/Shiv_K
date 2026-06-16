@@ -1,101 +1,65 @@
-# Hi 👋, I'm BALA SIVA KATAM
+# 👋 Hi, I'm BALA SIVA KATAM
 
-🚀 Passionate Developer | Full Stack Developer | AI & ML Enthusiast
+## 🚀 Software Developer | Full Stack Developer | Machine Learning Enthusiast
 
-Welcome to my GitHub profile!  
-I love building real-world applications, exploring new technologies, and solving problems through code.
+Welcome to my GitHub profile!
+
+I am a passionate developer who enjoys designing and developing efficient, scalable, and user-focused applications. I love solving real-world problems through technology and continuously improving my skills in software development, web technologies, and machine learning.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **Full Stack Web Development & Machine Learning Projects**
-- 🌱 Learning and improving skills in **Java, JavaScript, Python, AI/ML, and Databases**
-- 💡 Interested in building scalable and user-friendly applications
-- 🎯 Goal: Become a skilled Software Developer
-- 📫 Reach me: **shivkatam08@gmail.com**
+- 🎓 Interested in Software Development and Emerging Technologies
+- 💻 Building projects using modern web and programming technologies
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 🧠 Strong interest in problem-solving and system design
+- 🌱 Continuously learning and improving development skills
+- 📫 Email: shivkatam08@gmail.com
 
 ---
 
-## 🛠️ Technologies & Tools
+# 🛠️ Technical Skills
 
-### Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js,c,cpp" />
-</p>
+# 🛠️ Technical Skills
 
-### Frontend Development
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
-</p>
+# 🛠️ Technical Skills
 
-### Backend & Database
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb" />
-</p>
+## 💻 Programming Languages
 
-### Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🌐 Frontend Development
 
-### 🏦 Banking Management System
-A complete banking application with dashboard, account management, transactions, and database integration.
-
-**Tech Stack:** HTML, CSS, JavaScript, Java, Database
-
----
-
-### 📚 Attendance Management System
-An attendance tracking system with dashboard analytics and attendance reports.
-
-**Tech Stack:** HTML, CSS, JavaScript, Python
-
----
-
-### 🤖 Machine Learning Projects
-Developing ML models for classification, prediction, and data analysis.
-
-**Tech Stack:** Python, Pandas, NumPy, Scikit-Learn
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shivkatam08&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivkatam08&layout=compact&theme=tokyonight" />
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
 </p>
 
 ---
 
-## 🔥 Contribution Activity
+## ⚙️ Backend Development
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivkatam08&theme=tokyonight" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=spring,nodejs" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🗄️ Database
 
-<p>
-<a href="https://www.linkedin.com/in/bala-siva-naidu-katam-779129314/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:shivkatam08@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
-</a>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,oracle" />
 </p>
 
 ---
 
-⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
+## 🛠️ Tools & IDEs
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+</p>
+Feel free to explore my repositories and connect with me for collaboration opportunities.
